@@ -6,12 +6,11 @@ Link: https://sonixtestapp.herokuapp.com/
 ## Login
 E-mail  | Password
 ------------- | -------------
-test@test.com  | test
+test@mail.com  | password
 
 ## Test Payment 
   Card Number     |      CCV        |  Expiration Date    |  Cardholder Name
 :-------------:   | :-------------: | :----------------:  | :---------------:
-378282246310005   |      Any        |   Any valid date    |     Any name
-6011111111111117  |      Any        |   Any valid date    |     Any name
-3566111111111113  |      Any        |   Any valid date    |     Any name
+4242424242424242  |  Any 3 digits   |  Any future date    |     Any name
+
 
