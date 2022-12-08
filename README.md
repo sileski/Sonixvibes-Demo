@@ -1,7 +1,7 @@
 # Sonixvibes-Demo
 
 
-Link: https://sonixtestapp.herokuapp.com/
+Link: https://sonixvibes-demo.vercel.app/
 
 ## Login
 E-mail  | Password
